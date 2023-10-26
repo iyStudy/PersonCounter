@@ -1,7 +1,6 @@
 # YOLOv5 Real-time People Detector with Webcam
 このプログラムは、YOLOv5を使用してWebカメラのリアルタイムビデオストリームから人を検出するものです。  
 
-
 # 必要なパッケージをインストール
 pip install -r requirements.txt  
 
